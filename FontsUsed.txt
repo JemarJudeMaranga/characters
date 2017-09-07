@@ -1,0 +1,33 @@
+Fonts Used:
+1. Agency FB
+2. Arial
+3. Bahaus
+4. Berlin Sans FB
+5. Bodoni MT
+6. Bookman Old Style
+7. Bradley Hand ITC
+8. Broadway
+9. Cambria
+10. Century Gothic
+11. Chiller
+12. Comic Sans MS
+13. Constantia
+14. Eras Light ITC
+15. Garamond
+16. Georgia
+17. Letter Gothic Std
+18. Lucida Console
+19. Minion Pro
+20. Montserrat
+21. Myriad Pro
+22. Perpetua	
+23. Proxima Nova
+24. Roboto
+25. Rockwell
+26. Segoe UI
+27. Tahoma
+28. Tekton Pro
+29. Times New Roman
+30. Verdana
+
+
