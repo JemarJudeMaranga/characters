@@ -4,30 +4,33 @@ Fonts Used:
 3. Bahaus
 4. Berlin Sans FB
 5. Bodoni MT
-6. Bookman Old Style
-7. Bradley Hand ITC
-8. Broadway
-9. Cambria
-10. Century Gothic
-11. Chiller
-12. Comic Sans MS
-13. Constantia
-14. Eras Light ITC
-15. Garamond
-16. Georgia
-17. Letter Gothic Std
-18. Lucida Console
-19. Minion Pro
-20. Montserrat
-21. Myriad Pro
-22. Perpetua	
-23. Proxima Nova
-24. Roboto
-25. Rockwell
-26. Segoe UI
-27. Tahoma
-28. Tekton Pro
-29. Times New Roman
-30. Verdana
+6. Book Antiqua
+7. Bookman Old Style
+8. Bradley Hand ITC
+9. Broadway
+10. Calibri
+11. Cambria
+12. Century Gothic
+13. Chiller
+14. Comic Sans MS
+15. Consolas
+16. Constantia
+17. Eras Light ITC
+18. Garamond
+19. Georgia
+20. Letter Gothic Std
+21. Lucida Console
+22. Minion Pro
+23. Montserrat
+24. Myriad Pro
+25. Perpetua	
+26. Proxima Nova
+27. Roboto
+28. Rockwell
+29. Segoe UI
+30. Tahoma
+31. Tekton Pro
+32. Times New Roman
+33. Verdana
 
 
