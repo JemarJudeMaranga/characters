@@ -10,27 +10,29 @@ Fonts Used:
 9. Broadway
 10. Calibri
 11. Cambria
-12. Century Gothic
-13. Chiller
-14. Comic Sans MS
-15. Consolas
-16. Constantia
-17. Eras Light ITC
-18. Garamond
-19. Georgia
-20. Letter Gothic Std
-21. Lucida Console
-22. Minion Pro
-23. Montserrat
-24. Myriad Pro
-25. Perpetua	
-26. Proxima Nova
-27. Roboto
-28. Rockwell
-29. Segoe UI
-30. Tahoma
-31. Tekton Pro
-32. Times New Roman
-33. Verdana
+12. Candara
+13. Century Gothic
+14. Chiller
+15. Comic Sans MS
+16. Consolas
+17. Constantia
+18. Cooper Black
+19. Eras Light ITC
+20. Garamond
+21. Georgia
+22. Letter Gothic Std
+23. Lucida Console
+24. Minion Pro
+25. Montserrat
+26. Myriad Pro
+27. Perpetua	
+28. Proxima Nova
+29. Roboto
+30. Rockwell
+31. Segoe UI
+32. Tahoma
+33. Tekton Pro
+34. Times New Roman
+35. Verdana
 
 
