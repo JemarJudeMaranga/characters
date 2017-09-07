@@ -20,19 +20,20 @@ Fonts Used:
 19. Eras Light ITC
 20. Garamond
 21. Georgia
-22. Letter Gothic Std
-23. Lucida Console
-24. Minion Pro
-25. Montserrat
-26. Myriad Pro
-27. Perpetua	
+22. Impact
+23. Letter Gothic Std
+24. Lucida Console
+25. Minion Pro
+26. Montserrat
+27. Myriad Pro
+28. Perpetua	
 28. Proxima Nova
-29. Roboto
-30. Rockwell
+30. Roboto
+31. Rockwell
 31. Segoe UI
-32. Tahoma
-33. Tekton Pro
-34. Times New Roman
-35. Verdana
+33. Tahoma
+34. Tekton Pro
+35. Times New Roman
+36. Verdana
 
 
