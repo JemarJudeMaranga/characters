@@ -11,29 +11,33 @@ Fonts Used:
 10. Calibri
 11. Cambria
 12. Candara
-13. Century Gothic
-14. Chiller
-15. Comic Sans MS
-16. Consolas
-17. Constantia
-18. Cooper Black
-19. Eras Light ITC
-20. Garamond
-21. Georgia
-22. Impact
-23. Letter Gothic Std
-24. Lucida Console
-25. Minion Pro
-26. Montserrat
-27. Myriad Pro
-28. Perpetua	
-28. Proxima Nova
-30. Roboto
-31. Rockwell
-31. Segoe UI
-33. Tahoma
-34. Tekton Pro
-35. Times New Roman
-36. Verdana
+13. Caviar Dreams
+14. Century Gothic
+15. Chiller
+16. Comic Sans MS
+17. Consolas
+18. Constantia
+19. Cooper Black
+20. Eras Light ITC
+21. Garamond
+22. Georgia
+23. Impact
+24. Kristen ITC
+25. Lato
+26. Letter Gothic Std
+27. Lucida Console
+28. Minion Pro
+29. Montserrat
+30. Myriad Pro
+31. Oswald
+32. Perpetua	
+33. Proxima Nova
+34. Roboto
+35. Rockwell
+36. Segoe UI
+37. Tahoma
+38. Tekton Pro
+39. Times New Roman
+40. Verdana
 
 
