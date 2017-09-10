@@ -1,5 +1,6 @@
 Fonts Used:
 1. Agency FB
+<<<<<<< HEAD
 2. Andika Basic
 3. Arial
 4. Bahaus
@@ -50,3 +51,55 @@ Fonts Used:
 49. Times New Roman
 50. Verdana
 51. Waywalk
+=======
+2. Arial
+3. Bahaus
+4. Berlin Sans FB
+5. Bodoni MT
+6. Book Antiqua
+7. Bookman Old Style
+8. Bradley Hand ITC
+9. Broadway
+10. Calibri
+11. Cambria
+12. Candara
+13. Caviar Dreams
+14. Century Gothic
+15. Chiller
+16. Comic Sans MS
+17. Consolas
+18. Constantia
+19. Cooper Black
+20. Eras Light ITC
+21. Garamond
+22. Georgia
+23. Impact
+24. Kristen ITC
+25. Lato
+26. Letter Gothic Std
+27. Lucida Console
+28. Minion Pro
+29. Montserrat
+30. Myriad Pro
+31. Oswald
+32. Perpetua	
+33. Proxima Nova
+34. Roboto
+35. Rockwell
+36. Segoe UI
+37. Tahoma
+38. Tekton Pro
+39. Times New Roman
+40. Verdana
+41. Bell Mt
+42. Champagne & Limousines
+43. Sitka
+44. Offerings
+45. Waywalk
+46. Quicksand
+47. Sansation
+48. Rounded Elegance
+49. Sullivan
+50. Andika Basic
+51. Oswald
+>>>>>>> 47f6be4c0ebd0fd75bc7047a296afbd0bc330e84
