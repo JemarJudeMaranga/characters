@@ -47,6 +47,7 @@ Fonts Used:
 46. Sullivan  
 47. Tahoma
 48. Tekton Pro
-49. Times New Roman
-50. Verdana
-51. Waywalk
+49. Terminal
+50. Times New Roman
+51. Verdana
+52. Waywalk
