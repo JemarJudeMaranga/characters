@@ -41,13 +41,13 @@ Fonts Used:
 40. Roboto
 41. Rockwell
 42. Rounded Elegance
-43. Sansation
-44. Segoe UI
-45. Sitka
-46. Sullivan  
-47. Tahoma
-48. Tekton Pro
-49. Terminal
+43. Rudiment
+44. Sansation
+45. Segoe UI
+46. Sitka
+47. Sullivan  
+48. Tahoma
+49. Tekton Pro
 50. Times New Roman
 51. Verdana
 52. Waywalk
