@@ -1,52 +1,52 @@
 Fonts Used:
 1. Agency FB
-2. Arial
-3. Bahaus
-4. Berlin Sans FB
-5. Bodoni MT
-6. Book Antiqua
-7. Bookman Old Style
-8. Bradley Hand ITC
-9. Broadway
-10. Calibri
-11. Cambria
-12. Candara
-13. Caviar Dreams
-14. Century Gothic
-15. Chiller
-16. Comic Sans MS
-17. Consolas
-18. Constantia
-19. Cooper Black
-20. Eras Light ITC
-21. Garamond
-22. Georgia
-23. Impact
-24. Kristen ITC
-25. Lato
-26. Letter Gothic Std
-27. Lucida Console
-28. Minion Pro
-29. Montserrat
-30. Myriad Pro
-31. Oswald
-32. Perpetua	
-33. Proxima Nova
-34. Roboto
-35. Rockwell
-36. Segoe UI
-37. Tahoma
-38. Tekton Pro
-39. Times New Roman
-40. Verdana
-41. Bell Mt
-42. Champagne & Limousines
-43. Sitka
-44. Offerings
-45. Waywalk
-46. Quicksand
-47. Sansation
-48. Rounded Elegance
-49. Sullivan
-50. Andika Basic
-51. Oswald
+2. Andika Basic
+3. Arial
+4. Bahaus
+5. Bell Mt
+6. Berlin Sans FB
+7. Bodoni MT
+8. Book Antiqua
+9. Bookman Old Style
+10.Bradley Hand ITC
+11.Broadway
+12. Calibri
+13. Cambria
+14. Candara
+15. Caviar Dreams
+16. Century Gothic
+17. Champagne & Limousines
+18. Chiller
+19. Comic Sans MS
+20. Consolas
+21. Constantia
+22. Cooper Black
+23. Eras Light ITC
+24. Garamond
+25. Georgia
+26. Impact
+27. Kristen ITC
+28. Lato
+29. Letter Gothic Std
+30. Lucida Console
+31. Minion Pro
+32. Montserrat
+33. Myriad Pro
+34. Offerings
+35. Oswald
+36. Perpetua	
+37. Pristina
+38. Proxima Nova
+39. Quicksand
+40. Roboto
+41. Rockwell
+42. Rounded Elegance
+43. Sansation
+44. Segoe UI
+45. Sitka
+46. Sullivan  
+47. Tahoma
+48. Tekton Pro
+49. Times New Roman
+50. Verdana
+51. Waywalk
