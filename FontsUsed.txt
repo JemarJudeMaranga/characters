@@ -25,29 +25,30 @@ Fonts Used:
 24. Garamond
 25. Georgia
 26. Impact
-27. Kristen ITC
-28. Lato
-29. Letter Gothic Std
-30. Lucida Console
-31. Minion Pro
-32. Montserrat
-33. Myriad Pro
-34. Offerings
-35. Oswald
-36. Perpetua	
-37. Pristina
-38. Proxima Nova
-39. Quicksand
-40. Roboto
-41. Rockwell
-42. Rounded Elegance
-43. Rudiment
-44. Sansation
-45. Segoe UI
-46. Sitka
-47. Sullivan  
-48. Tahoma
-49. Tekton Pro
-50. Times New Roman
-51. Verdana
-52. Waywalk
+27. Justaword
+28. Kristen ITC
+29. Lato
+30. Letter Gothic Std
+31. Lucida Console
+32. Minion Pro
+33. Montserrat
+34. Myriad Pro
+35. Offerings
+36. Oswald
+37. Perpetua	
+38. Pristina
+39. Proxima Nova
+40. Quicksand
+41. Roboto
+42. Rockwell
+43. Rounded Elegance
+44. Rudiment
+45. Sansation
+46. Segoe UI
+47. Sitka
+48. Sullivan  
+49. Tahoma
+50. Tekton Pro
+51. Times New Roman
+52. Verdana
+53. Waywalk
