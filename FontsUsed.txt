@@ -42,21 +42,22 @@ Fonts Used:
 41. Montserrat
 42. Myriad Pro
 43. Offerings
-44. Oswald
-45. Perpetua	
-46. Pristina
-47. Proxima Nova
-48. Quicksand
-49. Roboto
-50. Rockwell
-51. Rounded Elegance
-52. Rudiment
-53. Sansation
-54. Segoe UI
-55. Sitka
-56. Sullivan  
-57. Tahoma
-58. Tekton Pro
-59. Times New Roman
-60. Verdana
-61. Waywalk
+44. Onyx
+45. Oswald
+46. Perpetua	
+47. Pristina
+48. Proxima Nova
+49. Quicksand
+50. Roboto
+51. Rockwell
+52. Rounded Elegance
+53. Rudiment
+54. Sansation
+55. Segoe UI
+56. Sitka
+57. Sullivan  
+58. Tahoma
+59. Tekton Pro
+60. Times New Roman
+61. Verdana
+62. Waywalk
