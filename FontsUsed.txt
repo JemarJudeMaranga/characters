@@ -27,30 +27,31 @@ Fonts Used:
 26. HP Simplified
 27. Impact
 28. Informal Roman
-29. Justaword
-30. Kristen ITC
-31. Lato
-32. Letter Gothic Std
-33. Lucida Console
-34. Minion Pro
-35. Montserrat
-36. Myriad Pro
-37. Offerings
-38. Oswald
-39. Perpetua	
-40. Pristina
-41. Proxima Nova
-42. Quicksand
-43. Roboto
-44. Rockwell
-45. Rounded Elegance
-46. Rudiment
-47. Sansation
-48. Segoe UI
-49. Sitka
-50. Sullivan  
-51. Tahoma
-52. Tekton Pro
-53. Times New Roman
-54. Verdana
-55. Waywalk
+29. Juice ITC
+30. Justaword
+31. Kristen ITC
+32. Lato
+33. Letter Gothic Std
+34. Lucida Console
+35. Minion Pro
+36. Montserrat
+37. Myriad Pro
+38. Offerings
+39. Oswald
+40. Perpetua	
+41. Pristina
+42. Proxima Nova
+43. Quicksand
+44. Roboto
+45. Rockwell
+46. Rounded Elegance
+47. Rudiment
+48. Sansation
+49. Segoe UI
+50. Sitka
+51. Sullivan  
+52. Tahoma
+53. Tekton Pro
+54. Times New Roman
+55. Verdana
+56. Waywalk
