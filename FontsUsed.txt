@@ -21,39 +21,41 @@ Fonts Used:
 20. Consolas
 21. Constantia
 22. Cooper Black
-23. Eras Light ITC
-24. Gabriola
-25. Garamond
-26. Georgia
-27. Hobo Std
-28. HP Simplified
-29. Impact
-30. Informal Roman
-31. Juice ITC
-32. Justaword
-33. Kristen ITC
-34. Lato
-35. Letter Gothic Std
-36. Lucida Console
-37. Minion Pro
-38. Montserrat
-39. Myriad Pro
-40. Offerings
-41. Oswald
-42. Perpetua	
-43. Pristina
-44. Proxima Nova
-45. Quicksand
-46. Roboto
-47. Rockwell
-48. Rounded Elegance
-49. Rudiment
-50. Sansation
-51. Segoe UI
-52. Sitka
-53. Sullivan  
-54. Tahoma
-55. Tekton Pro
-56. Times New Roman
-57. Verdana
-58. Waywalk
+23. Ebrima
+24. Elephant
+25. Eras Light ITC
+26. Gabriola
+27. Garamond
+28. Georgia
+29. Hobo Std
+30. HP Simplified
+31. Impact
+32. Informal Roman
+33. Juice ITC
+34. Justaword
+35. Kristen ITC
+36. Lato
+37. Letter Gothic Std
+38. Lucida Console
+39. Minion Pro
+40. Montserrat
+41. Myriad Pro
+42. Offerings
+43. Oswald
+44. Perpetua	
+45. Pristina
+46. Proxima Nova
+47. Quicksand
+48. Roboto
+49. Rockwell
+50. Rounded Elegance
+51. Rudiment
+52. Sansation
+53. Segoe UI
+54. Sitka
+55. Sullivan  
+56. Tahoma
+57. Tekton Pro
+58. Times New Roman
+59. Verdana
+60. Waywalk
