@@ -59,5 +59,6 @@ Fonts Used:
 58. Tahoma
 59. Tekton Pro
 60. Times New Roman
-61. Verdana
-62. Waywalk
+61. Typo Quik
+62. Verdana
+63. Waywalk
