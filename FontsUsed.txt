@@ -37,29 +37,30 @@ Fonts Used:
 36. Justaword
 37. Kristen ITC
 38. Lato
-39. Letter Gothic Std
-40. Lucida Console
-41. Minion Pro
-42. Montserrat
-43. Myriad Pro
-44. Offerings
-45. Onyx
-46. Oswald
-47. Perpetua	
-48. Pristina
-49. Proxima Nova
-50. Quicksand
-51. Roboto
-52. Rockwell
-53. Rounded Elegance
-54. Rudiment
-55. Sansation
-56. Segoe UI
-57. Sitka
-58. Sullivan  
-59. Tahoma
-60. Tekton Pro
-61. Times New Roman
-62. Typo Quik
-63. Verdana
-64. Waywalk
+39. Leelawadee UI
+40. Letter Gothic Std
+41. Lucida Console
+42. Minion Pro
+43. Montserrat
+44. Myriad Pro
+45. Offerings
+46. Onyx
+47. Oswald
+48. Perpetua	
+49. Pristina
+50. Proxima Nova
+51. Quicksand
+52. Roboto
+53. Rockwell
+54. Rounded Elegance
+55. Rudiment
+56. Sansation
+57. Segoe UI
+58. Sitka
+59. Sullivan  
+60. Tahoma
+61. Tekton Pro
+62. Times New Roman
+63. Typo Quik
+64. Verdana
+65. Waywalk
